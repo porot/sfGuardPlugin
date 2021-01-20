@@ -1,0 +1,19 @@
+{
+  "name": "porot/sf-guard-plugin",
+  "type": "symfony1-plugin",
+  "description": "Fork from abarray/sfGuardPlugin",
+  "keywords": [
+    "symfony",
+    "plugin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/porot/sfGuardPlugin",
+  "require": {
+    "composer/installers": "*"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}
